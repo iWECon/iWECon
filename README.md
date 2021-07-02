@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
 ![Marcos' github stats](https://github-readme-stats.vercel.app/api?username=iWECon&count_private=true&show_icons=true)
